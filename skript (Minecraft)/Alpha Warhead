@@ -1,6 +1,6 @@
 command nuke:
 	trigger:
-		if player is not "fmcz":
+		if player is not "aldobonavino":
 			stop
 		broadcast "Alert:%nl%The alpha warheads have been started for ignition.  T-1 seconds until explosion."
 		broadcast "1"
